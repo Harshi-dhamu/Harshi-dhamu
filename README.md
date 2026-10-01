@@ -1,20 +1,24 @@
 <div align="center">
 
-<!-- CYBERSECURITY HEADER -->
+<!-- CYBERSECURITY BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080d,45:0b1420,75:10252b,100:071914&height=245&section=header&text=HARSHIKHAA%20%2F%2F%20DASS&fontSize=58&fontColor=F5F7FA&fontAlignY=40&font=JetBrains%20Mono&desc=CYBERSECURITY%20%7C%20SECURITY%20ENGINEERING%20%7C%20THREAT%20DETECTION&descSize=16&descAlignY=63&descColor=7DD3A7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080D,50:0C1722,100:10251F&height=180&section=header&text=CYBERSECURITY&fontSize=42&fontColor=E8EDF2&fontAlignY=48&font=JetBrains%20Mono&animation=fadeIn" width="100%"/>
 
 <br>
 
-<!-- TERMINAL TYPING EFFECT -->
+<!-- BLINKING / TYPING NAME -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7DD3A7&center=true&vCenter=true&width=850&height=45&lines=%3E+whoami;%3E+Investigating+threats...;%3E+Analyzing+security+signals...;%3E+Building+defensive+systems...;%3E+Think+like+an+attacker.+Build+like+a+defender." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2200&pause=900&color=7DD3A7&center=true&vCenter=true&width=600&height=55&lines=HARSHI+DHAMU;HARSHI+DHAMU;HARSHI+DHAMU" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-7DD3A7?style=for-the-badge&labelColor=0B1117&logo=shield&logoColor=7DD3A7"/>
-<img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-7DD3A7?style=for-the-badge&labelColor=0B1117&logoColor=7DD3A7"/>
-<img src="https://img.shields.io/badge/MODE-SECURITY%20RESEARCH-7DD3A7?style=for-the-badge&labelColor=0B1117&logoColor=7DD3A7"/>
+### `Cybersecurity • Security Engineering • Threat Detection`
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-7DD3A7?style=flat-square&labelColor=0B1117"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-7DD3A7?style=flat-square&labelColor=0B1117"/>
+<img src="https://img.shields.io/badge/BUILDING-SECURITY%20TOOLS-7DD3A7?style=flat-square&labelColor=0B1117"/>
 
 </div>
 
@@ -22,63 +26,15 @@
 
 # `> whoami`
 
-<div align="center">
+I'm **Harshi Dhamu**, a cybersecurity-focused developer interested in understanding how systems work, how attacks happen, and how they can be defended.
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  USER        : Harshikhaa Dass                               │
-│  DOMAIN      : CYBERSECURITY                                 │
-│  ROLE        : SECURITY ENGINEERING                          │
-│                                                              │
-│  INTERESTS   : Threat Detection                              │
-│                Network Security                              │
-│                Digital Forensics                             │
-│                OT / ICS Security                             │
-│                AI Security                                   │
-│                                                              │
-│  OBJECTIVE   : Understand → Detect → Investigate → Defend    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+My interests include **threat detection, network security, digital forensics, OT/ICS security, AI security, and security engineering**.
 
-</div>
-
-I'm a cybersecurity-focused developer interested in understanding how systems work, how attacks happen, and how defensive security mechanisms can be engineered.
-
-I enjoy turning security concepts into practical projects involving **detection, analysis, investigation, monitoring, and defensive automation**.
+I enjoy turning security concepts into practical projects that can detect, analyze, investigate, and respond to suspicious activity.
 
 ---
 
-# `> mission`
-
-<div align="center">
-
-```text
-        UNDERSTAND THE THREAT
-                 │
-                 ▼
-          DETECT THE SIGNAL
-                 │
-                 ▼
-         ANALYZE THE EVIDENCE
-                 │
-                 ▼
-        INVESTIGATE THE EVENT
-                 │
-                 ▼
-          BUILD THE DEFENSE
-```
-
-</div>
-
-My goal is to build security projects that are practical, understandable, and technically meaningful rather than simply creating demonstrations.
-
----
-
-# `> operations`
-
-<div align="center">
+# `> projects`
 
 <table>
 <tr>
@@ -87,22 +43,16 @@ My goal is to build security projects that are practical, understandable, and te
 
 ### 🔥 ShadowTrace
 
-**Threat Investigation**
-
-A cybersecurity investigation project focused on tracing suspicious activity, connecting security events, and building an investigation workflow.
-
-<br>
+Threat investigation and analysis project focused on tracing suspicious activity and connecting security events.
 
 `Threat Detection`
 `Digital Forensics`
 `Security Automation`
 
-<br><br>
+<br>
 
 <a href="https://github.com/Harshi-dhamu/ShadowTrace">
-
-<img src="https://img.shields.io/badge/ACCESS%20REPOSITORY-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
-
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
 </a>
 
 </td>
@@ -111,22 +61,16 @@ A cybersecurity investigation project focused on tracing suspicious activity, co
 
 ### ⚡ VoltGuard
 
-**OT / ICS Defense**
-
-A physics-aware security system designed to evaluate industrial control commands against physical process constraints.
-
-<br>
+Physics-aware security system for OT/ICS environments that evaluates industrial control commands against physical constraints.
 
 `OT / ICS`
 `SCADA Security`
 `Modbus / DNP3`
 
-<br><br>
+<br>
 
 <a href="https://github.com/Harshi-dhamu/VoltGuard">
-
-<img src="https://img.shields.io/badge/ACCESS%20REPOSITORY-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
-
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
 </a>
 
 </td>
@@ -139,22 +83,16 @@ A physics-aware security system designed to evaluate industrial control commands
 
 ### 🧠 NeuroFence
 
-**AI Security Research**
-
-A security research project focused on identifying malicious modifications and backdoors in machine-learning model weights.
-
-<br>
+AI security research project focused on detecting malicious modifications and backdoors in machine-learning model weights.
 
 `AI Security`
 `Model Forensics`
-`Threat Detection`
+`Detection`
 
-<br><br>
+<br>
 
 <a href="https://github.com/Harshi-dhamu/NeuroFence">
-
-<img src="https://img.shields.io/badge/ACCESS%20REPOSITORY-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
-
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
 </a>
 
 </td>
@@ -163,22 +101,16 @@ A security research project focused on identifying malicious modifications and b
 
 ### 🔎 Mini-Nmap
 
-**Network Reconnaissance**
-
-A learning-focused network reconnaissance project exploring scanning, host discovery, and service enumeration.
-
-<br>
+Network reconnaissance project exploring host discovery, scanning, and service enumeration.
 
 `Network Security`
 `Reconnaissance`
 `Python`
 
-<br><br>
+<br>
 
 <a href="https://github.com/Harshi-dhamu/Mini-Nmap">
-
-<img src="https://img.shields.io/badge/ACCESS%20REPOSITORY-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
-
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
 </a>
 
 </td>
@@ -186,45 +118,11 @@ A learning-focused network reconnaissance project exploring scanning, host disco
 </tr>
 </table>
 
-</div>
-
 ---
 
-# `> threat_surface`
+# `> tech_stack`
 
-<div align="center">
-
-### 🌐 NETWORK SECURITY
-
-Traffic analysis, reconnaissance, service discovery, and network visibility.
-
-### 🔍 THREAT DETECTION
-
-Identifying anomalies, suspicious behavior, and security events.
-
-### 🏭 OT / ICS SECURITY
-
-Industrial protocols, process monitoring, and physics-aware detection.
-
-### 🧪 DIGITAL FORENSICS
-
-Evidence analysis, artifacts, investigation, and event reconstruction.
-
-### 🤖 AI SECURITY
-
-Model security, poisoning, malicious modifications, and backdoor detection.
-
-### ⚙️ SECURITY ENGINEERING
-
-Building practical tools for monitoring, detection, analysis, and defense.
-
-</div>
-
----
-
-# `> toolkit`
-
-### `LANGUAGES`
+### Languages
 
 <div align="center">
 
@@ -232,85 +130,24 @@ Building practical tools for monitoring, detection, analysis, and defense.
 
 </div>
 
-### `SYSTEMS`
+### Tools & Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" />
 
-</div>
+<br><br>
 
-### `SECURITY TOOLING`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/NMAP-315A7D?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/BURP%20SUITE-CC5528?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCAPY-263238?style=for-the-badge&logo=python&logoColor=7DD3A7"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-315A7D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-CC5528?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scapy-263238?style=for-the-badge&logo=python&logoColor=7DD3A7"/>
 
 </div>
 
 ---
 
-# `> security_pipeline`
-
-<div align="center">
-
-```text
-             ┌─────────────────────┐
-             │     SECURITY DATA   │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │       DETECT        │
-             │  anomalies / alerts │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │       ANALYZE       │
-             │ context / evidence  │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │     INVESTIGATE     │
-             │   trace the event   │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │       DEFEND        │
-             │ response / controls │
-             └─────────────────────┘
-```
-
-</div>
-
----
-
-# `> current_operations`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [ ACTIVE ]  Cybersecurity project development              │
-│  [ ACTIVE ]  Threat detection engineering                   │
-│  [ ACTIVE ]  Security research                              │
-│  [ ACTIVE ]  Linux & networking                             │
-│  [ ACTIVE ]  Defensive security tooling                     │
-│  [ ACTIVE ]  OT / ICS security                              │
-│  [ ACTIVE ]  Digital forensics                              │
-│  [ ACTIVE ]  Security experimentation                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `> telemetry`
+# `> github`
 
 <div align="center">
 
@@ -327,17 +164,13 @@ Building practical tools for monitoring, detection, analysis, and defense.
 <div align="center">
 
 <a href="https://github.com/Harshi-dhamu">
-
-<img src="https://img.shields.io/badge/GITHUB-0B1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
+<img src="https://img.shields.io/badge/GitHub-0B1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
   
 
 <a href="YOUR_LINKEDIN_URL">
-
-<img src="https://img.shields.io/badge/LINKEDIN-0B1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-0B1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
@@ -346,20 +179,12 @@ Building practical tools for monitoring, detection, analysis, and defense.
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     THINK LIKE AN ATTACKER. BUILD LIKE A DEFENDER.          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### `// connection terminated`
+`Think like an attacker. Build like a defender.`
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071914,50:10252b,100:05080d&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10251F,50:0C1722,100:05080D&height=90&section=footer" width="100%"/>
 
 </div>
