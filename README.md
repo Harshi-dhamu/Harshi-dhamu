@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:0f3d2e&height=230&section=header&text=HARSHI%20DHAMU&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Security%20Engineering%20%7C%20Threat%20Detection&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# HARSHI DHAMU
 
-<br>
+### `CYBERSECURITY` · `SECURITY ENGINEERING` · `THREAT DETECTION`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Building+security+tools.;Investigating+threats.;Breaking+systems+to+understand+them.;Building+systems+to+defend+them." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Harshi-dhamu&label=PROFILE+VIEWS&color=0f3d2e&style=for-the-badge" />
+**Building security tools. Investigating threats. Understanding systems.**
 
 </div>
 
@@ -17,23 +13,17 @@
 ## `> whoami`
 
 ```text
-Harshi Dhamu
+Name        : Harshi Dhamu
+Focus       : Cybersecurity & Security Engineering
+Interests   : Threat Detection, Network Security, Digital Forensics
+              OT/ICS Security, AI Security, Security Automation
 
-Cybersecurity-focused developer
-Security Engineering • Threat Detection • Digital Forensics
-
-Currently exploring:
-├── Network Security
-├── Threat Detection
-├── OT / ICS Security
-├── Digital Forensics
-├── AI Security
-└── Security Automation
+Currently   : Building practical cybersecurity projects
 ```
 
-I enjoy building security projects that go beyond simple demonstrations — projects where the system actually **detects, analyzes, explains, and responds to security events**.
+I'm a cybersecurity-focused developer interested in understanding how systems work, how they can be attacked, and how they can be defended.
 
-My goal is to understand systems from both sides: how they can be attacked and how they can be defended.
+I enjoy turning security concepts into practical projects that can **detect, analyze, investigate, and respond to suspicious activity**.
 
 ---
 
@@ -41,7 +31,7 @@ My goal is to understand systems from both sides: how they can be attacked and h
 
 > **Understand the attack. Detect the signal. Build the defense.**
 
-I'm particularly interested in turning cybersecurity concepts into working tools that can be investigated, tested, and demonstrated.
+My focus is on building security projects that are more than simple demonstrations — projects that explore real security problems through working implementations.
 
 ---
 
@@ -51,41 +41,30 @@ I'm particularly interested in turning cybersecurity concepts into working tools
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔥 ShadowTrace</h3>
+### 🔥 ShadowTrace
 
-Cybersecurity investigation and threat-analysis platform focused on tracing suspicious activity and connecting security events into an investigation workflow.
+A cybersecurity investigation and threat-analysis project focused on tracing suspicious activity and connecting security events into an investigation workflow.
 
-<br>
+**Focus**
 
 `Threat Detection`
 `Digital Forensics`
 `Security Automation`
 
-<br><br>
-
-<a href="https://github.com/Harshi-dhamu/ShadowTrace">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
 
-<h3>⚡ VoltGuard</h3>
+### ⚡ VoltGuard
 
-Physics-based OT/ICS security system that evaluates industrial control commands against physical process constraints.
+A physics-based OT/ICS security system that evaluates industrial control commands against physical process constraints.
 
-<br>
+**Focus**
 
 `OT/ICS Security`
-`SCADA`
+`SCADA Security`
 `Modbus/DNP3`
-
-<br><br>
-
-<a href="https://github.com/Harshi-dhamu/VoltGuard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+`Detection Engineering`
 
 </td>
 </tr>
@@ -93,41 +72,29 @@ Physics-based OT/ICS security system that evaluates industrial control commands 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 NeuroFence</h3>
+### 🧠 NeuroFence
 
-Security research project exploring detection of malicious modifications and backdoors in machine-learning model weights.
+A security research project focused on detecting malicious modifications and backdoors in machine-learning model weights.
 
-<br>
+**Focus**
 
 `AI Security`
 `Model Forensics`
-`Detection Engineering`
-
-<br><br>
-
-<a href="https://github.com/Harshi-dhamu/NeuroFence">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+`Detection`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🔎 Mini-Nmap</h3>
+### 🔎 Mini-Nmap
 
-A learning-focused network reconnaissance project exploring how network scanning and service discovery work at a lower level.
+A learning-focused network reconnaissance project exploring network scanning and service discovery.
 
-<br>
+**Focus**
 
 `Network Security`
 `Reconnaissance`
 `Python`
-
-<br><br>
-
-<a href="https://github.com/Harshi-dhamu/Mini-Nmap">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
 
 </td>
 </tr>
@@ -137,98 +104,83 @@ A learning-focused network reconnaissance project exploring how network scanning
 
 # 🛡️ Security Focus
 
-<div align="center">
-
-| Area                    | What I'm Exploring                                      |
-| ----------------------- | ------------------------------------------------------- |
-| 🌐 Network Security     | Traffic analysis, reconnaissance and network visibility |
-| 🔍 Threat Detection     | Identifying suspicious behavior and security events     |
-| 🏭 OT / ICS Security    | Industrial protocols and physics-aware detection        |
-| 🧪 Digital Forensics    | Investigating artifacts and reconstructing activity     |
-| 🤖 AI Security          | Model security, poisoning and backdoor detection        |
-| ⚙️ Security Engineering | Building practical defensive security tools             |
-
-</div>
+| Area                        | What I'm Exploring                                      |
+| :-------------------------- | :------------------------------------------------------ |
+| 🌐 **Network Security**     | Traffic analysis, reconnaissance and network visibility |
+| 🔍 **Threat Detection**     | Identifying suspicious behavior and security events     |
+| 🏭 **OT / ICS Security**    | Industrial protocols and physics-aware detection        |
+| 🧪 **Digital Forensics**    | Investigating artifacts and reconstructing activity     |
+| 🤖 **AI Security**          | Model security, poisoning and backdoor detection        |
+| ⚙️ **Security Engineering** | Building practical defensive security tools             |
 
 ---
 
-# 🧰 Tech Stack
+# 🧰 Technical Stack
 
-### Languages
+### Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,bash,java,js" />
-</p>
+```text
+Python · C++ · Rust · Java · JavaScript · Bash
+```
 
 ### Systems & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" />
-</p>
+```text
+Linux · Git · GitHub · Docker · VS Code
+```
 
 ### Security
 
-<p align="left">
+```text
+Network Security
+Threat Detection
+Digital Forensics
+OT / ICS Security
+Security Automation
+AI Security
+```
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scapy-111827?style=for-the-badge&logo=python&logoColor=00ff88"/>
+### Security Tools & Technologies
 
-</p>
+```text
+Wireshark · Nmap · Scapy · Burp Suite
+Modbus · DNP3 · PyQt6 · OpenModelica
+```
 
 ---
 
 # 🧩 What I Build
 
 ```text
-                ┌──────────────────────┐
-                │      SECURITY        │
-                │       SYSTEMS        │
-                └──────────┬───────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-     DETECTION         ANALYSIS         DEFENSE
-          │                │                │
-          ▼                ▼                ▼
-      Threats          Forensics       Automation
-      Anomalies        Events          Response
-      Attacks          Artifacts       Monitoring
+                         SECURITY SYSTEMS
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+         DETECTION           ANALYSIS           DEFENSE
+             │                  │                  │
+             ▼                  ▼                  ▼
+          Threats            Events            Automation
+          Anomalies          Evidence          Monitoring
+          Attacks            Artifacts          Response
 ```
 
 ---
 
-# 📊 GitHub Activity
+# 🔬 Engineering Interests
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshi-dhamu&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi-dhamu&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
-
-</div>
-
----
-
-# 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi-dhamu&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Harshi-dhamu/Harshi-dhamu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  Network Security        ████████████████████    │
+│  Threat Detection        ███████████████████     │
+│  Security Engineering    ███████████████████     │
+│  OT / ICS Security       ████████████████        │
+│  Digital Forensics       ███████████████         │
+│  AI Security             ██████████████          │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -240,28 +192,82 @@ A learning-focused network reconnaissance project exploring how network scanning
 [+] Build real cybersecurity projects
 [+] Improve detection engineering skills
 [+] Explore security research
-[+] Learn deeper Linux & networking
+[+] Strengthen Linux and networking fundamentals
 [+] Build practical defensive tooling
+[+] Study digital forensics
+[+] Explore OT/ICS security
 [+] Document security experiments
 [+] Contribute to open-source projects
 ```
 
 ---
 
-# 📚 Currently Learning
+# 📚 Learning Path
 
 ```text
-Linux Internals
-        ↓
+Linux & Systems
+       │
+       ▼
 Networking
-        ↓
-Security Monitoring
-        ↓
+       │
+       ▼
+Security Fundamentals
+       │
+       ▼
 Threat Detection
-        ↓
+       │
+       ▼
 Digital Forensics
-        ↓
+       │
+       ▼
 Security Engineering
+       │
+       ▼
+Security Research
+```
+
+---
+
+# 📈 GitHub
+
+```text
+Repositories      →  Cybersecurity projects & experiments
+Projects          →  Security engineering
+Contributions     →  Continuous development
+Documentation     →  Learning in public
+```
+
+You can explore my repositories to see the projects I'm building and the technologies I'm experimenting with.
+
+---
+
+# 🗂️ Selected Repositories
+
+| Repository          | Area                             |
+| :------------------ | :------------------------------- |
+| **ShadowTrace**     | Threat Detection / Investigation |
+| **VoltGuard**       | OT/ICS Security                  |
+| **NeuroFence**      | AI Security                      |
+| **Mini-Nmap**       | Network Security                 |
+| **ai-defending-ai** | AI Security                      |
+| **auto-portfolio**  | Development                      |
+
+---
+
+# 🎯 What I'm Working Toward
+
+```text
+              SECURITY ENGINEER
+                     │
+       ┌─────────────┼─────────────┐
+       │             │             │
+       ▼             ▼             ▼
+   BUILDING      RESEARCHING    DEFENDING
+       │             │             │
+       ▼             ▼             ▼
+    Tools         Threats       Systems
+    Systems       Attacks       Networks
+    Automation    Security      Infrastructure
 ```
 
 ---
@@ -270,28 +276,32 @@ Security Engineering
 
 <div align="center">
 
-<a href="https://github.com/Harshi-dhamu">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**GitHub**
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+`github.com/Harshi-dhamu`
+
+**LinkedIn**
+
+`Add your LinkedIn profile here`
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   "Think like an attacker. Build a defense." │
-│                                               │
-└───────────────────────────────────────────────┘
-```
+### `Think like an attacker. Build like a defender.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,50:111827,100:050505&height=120&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+`────────────────────────────────────────`
+
+**Thanks for visiting my profile.**
+
+`────────────────────────────────────────`
 
 </div>
