@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- CYBERSECURITY BANNER -->
+<!-- BANNER -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080D,50:0C1722,100:10251F&height=180&section=header&text=CYBERSECURITY&fontSize=42&fontColor=E8EDF2&fontAlignY=48&font=JetBrains%20Mono&animation=fadeIn" width="100%"/>
 
 <br>
 
-<!-- BLINKING / TYPING NAME -->
+<!-- TYPING NAME -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2200&pause=900&color=7DD3A7&center=true&vCenter=true&width=600&height=55&lines=HARSHI+DHAMU;HARSHI+DHAMU;HARSHI+DHAMU" />
 
 <br>
 
-### `Cybersecurity • Security Engineering • Threat Detection`
+### Cybersecurity • Security Engineering • Threat Detection
 
 <br>
 
@@ -26,15 +26,15 @@
 
 # `> whoami`
 
-I'm **Harshi Dhamu**, a cybersecurity-focused developer interested in understanding how systems work, how attacks happen, and how they can be defended.
+I'm **Harshi Dhamu**, a cybersecurity-focused developer interested in **threat detection, network security, digital forensics, OT/ICS security, AI security, and security engineering**.
 
-My interests include **threat detection, network security, digital forensics, OT/ICS security, AI security, and security engineering**.
-
-I enjoy turning security concepts into practical projects that can detect, analyze, investigate, and respond to suspicious activity.
+I enjoy building practical security tools that can **detect, analyze, investigate, and defend**.
 
 ---
 
 # `> projects`
+
+<div align="center">
 
 <table>
 <tr>
@@ -43,13 +43,11 @@ I enjoy turning security concepts into practical projects that can detect, analy
 
 ### 🔥 ShadowTrace
 
-Threat investigation and analysis project focused on tracing suspicious activity and connecting security events.
+Threat investigation and security analysis.
 
-`Threat Detection`
-`Digital Forensics`
-`Security Automation`
+`Threat Detection` · `Digital Forensics` · `Automation`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Harshi-dhamu/ShadowTrace">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
@@ -61,13 +59,11 @@ Threat investigation and analysis project focused on tracing suspicious activity
 
 ### ⚡ VoltGuard
 
-Physics-aware security system for OT/ICS environments that evaluates industrial control commands against physical constraints.
+Physics-aware OT/ICS security.
 
-`OT / ICS`
-`SCADA Security`
-`Modbus / DNP3`
+`OT/ICS` · `SCADA` · `Modbus/DNP3`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Harshi-dhamu/VoltGuard">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
@@ -83,13 +79,11 @@ Physics-aware security system for OT/ICS environments that evaluates industrial 
 
 ### 🧠 NeuroFence
 
-AI security research project focused on detecting malicious modifications and backdoors in machine-learning model weights.
+AI model security and backdoor detection.
 
-`AI Security`
-`Model Forensics`
-`Detection`
+`AI Security` · `Model Forensics` · `Detection`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Harshi-dhamu/NeuroFence">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
@@ -101,13 +95,11 @@ AI security research project focused on detecting malicious modifications and ba
 
 ### 🔎 Mini-Nmap
 
-Network reconnaissance project exploring host discovery, scanning, and service enumeration.
+Network reconnaissance and scanning.
 
-`Network Security`
-`Reconnaissance`
-`Python`
+`Network Security` · `Recon` · `Python`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Harshi-dhamu/Mini-Nmap">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-7DD3A7?style=for-the-badge&logo=github&logoColor=0B1117"/>
@@ -118,23 +110,15 @@ Network reconnaissance project exploring host discovery, scanning, and service e
 </tr>
 </table>
 
----
-
-# `> tech_stack`
-
-### Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,bash,java,js" />
-
 </div>
 
-### Tools & Technologies
+---
+
+# `> stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,bash,java,js,linux,docker,git,github,vscode" />
 
 <br><br>
 
@@ -147,8 +131,6 @@ Network reconnaissance project exploring host discovery, scanning, and service e
 
 ---
 
-# `> github`
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshi-dhamu&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=7DD3A7&icon_color=7DD3A7&text_color=c9d1d9"/>
@@ -158,8 +140,6 @@ Network reconnaissance project exploring host discovery, scanning, and service e
 </div>
 
 ---
-
-# `> connect`
 
 <div align="center">
 
@@ -173,17 +153,11 @@ Network reconnaissance project exploring host discovery, scanning, and service e
 <img src="https://img.shields.io/badge/LinkedIn-0B1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 `Think like an attacker. Build like a defender.`
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10251F,50:0C1722,100:05080D&height=90&section=footer" width="100%"/>
 
